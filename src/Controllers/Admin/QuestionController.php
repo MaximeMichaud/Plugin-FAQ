@@ -37,7 +37,7 @@ class QuestionController extends Controller
 
         return response()->json([
             'status' => 'success',
-            'message' => trans('faq::admin.questions.status.order-updated')
+            'message' => trans('faq::admin.questions.status.order-updated'),
         ]);
     }
 

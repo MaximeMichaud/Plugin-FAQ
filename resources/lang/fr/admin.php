@@ -13,7 +13,7 @@ return [
             'updated' => 'Cette question a été mise à jour.',
             'deleted' => 'Cette question a été supprimée.',
 
-            'order-updated' => '\'ordre des questions a été mis à jour.'
+            'order-updated' => '\'ordre des questions a été mis à jour.',
         ],
-    ],  
+    ],
 ];

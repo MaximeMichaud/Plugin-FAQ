@@ -13,7 +13,7 @@ return [
             'updated' => 'This question has been updated.',
             'deleted' => 'This question has been deleted.',
 
-            'order-updated' => 'The order of the questions has been updated.'
+            'order-updated' => 'The order of the questions has been updated.',
         ],
-    ],  
+    ],
 ];
