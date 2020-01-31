@@ -1,0 +1,14 @@
+{
+    "name": "FAQ",
+    "description": "FAQ plugin for Azuriom",
+    "version": "0.1.0",
+    "url": "https://azuriom.com",
+    "authors": [
+        "Azuriom"
+    ],
+    "providers": [
+        "\\Azuriom\\Plugin\\FAQ\\Providers\\FAQServiceProvider",
+        "\\Azuriom\\Plugin\\FAQ\\Providers\\RouteServiceProvider"
+    ],
+	"apiId": 4
+}
